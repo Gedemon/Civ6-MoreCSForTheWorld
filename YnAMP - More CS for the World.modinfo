@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="b7069e24-fb9c-4393-b836-44ec5c3dea98" version="1">
+  <Properties>
+    <Name>LOC_YNAMP_MORE_CS_WORLD_TITLE</Name>
+    <Stability>Beta</Stability>
+    <Teaser>LOC_YNAMP_MORE_CS_WORLD_TEASER</Teaser>
+    <Description>LOC_YNAMP_MORE_CS_WORLD_DESCRIPTION</Description>
+    <Authors>Gedemon</Authors>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  
+	<Settings>
+	</Settings>	
+	<Components>
+		<UpdateDatabase id="YNAMP_MORE_CS_WORLD">
+			<Items>
+				<File>Table.sql</File>
+				<File>NewCityStates.sql</File>
+				<File>TSL.xml</File>
+			</Items>
+		</UpdateDatabase>
+				
+		<LocalizedText id="YNAMP_DEFAULT_COMPONENT">
+			<Items>
+				<File>NewCityStatesTexts.sql</File>
+				<File>GamePlayText.xml</File>
+			</Items>
+		</LocalizedText>
+	</Components>
+	
+	<LocalizedText>
+		<Text id="LOC_YNAMP_MORE_CS_WORLD_TITLE">
+			<en_US>YnAMP - More CS for the World</en_US>
+		</Text>
+		<Text id="LOC_YNAMP_MORE_CS_WORLD_TEASER">
+			<en_US>More City States for the World maps of Yet (not) Another Maps Pack.</en_US>
+		</Text>
+		<Text id="LOC_YNAMP_MORE_CS_WORLD_DESCRIPTION">
+			<en_US>More City States for the World maps of Yet (not) Another Maps Pack.</en_US>
+		</Text>
+	</LocalizedText>
+	
+	<Files>
+		<File>Table.sql</File>
+		<File>GamePlayText.xml</File>
+		<File>TSL.xml</File>
+		<File>NewCityStates.sql</File>
+		<File>NewCityStatesTexts.sql</File>
+	</Files>
+</Mod>
