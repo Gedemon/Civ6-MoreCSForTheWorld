@@ -190,4 +190,30 @@
 	
 	</StartPosition>
 	
+	
+	<!-- Cordiform Earth -->
+	<StartPosition>
+		
+        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_AKSUM"			X="44" Y="12" />
+        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_CAPE_TOWN"		X="38" Y="2" />
+        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_CUZCO"			X="14" Y="12" />
+        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_DAKAR"			X="27" Y="13" />
+        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_DUBLIN"		X="29" Y="34" />
+        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_GARAMANTES"	X="36" Y="16" />
+        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_IFE"			X="35" Y="12" />
+        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_KIEV"			X="45" Y="30" />
+        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_LAKOTA"		X="8" Y="33" />
+        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_MOGADISHU"		X="47" Y="12" />
+        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_RABAT"			X="30" Y="19" />
+        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_REYKJAVIK"		X="33" Y="40" />
+        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_SAMARKAND"		X="52" Y="30" />
+        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_SIDNEY"		X="75" Y="9" />
+        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_SUTAIO"		X="13" Y="39" />
+        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_TIKAL"			X="9" Y="21" />
+        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_ULUNDI"		X="40" Y="3" />
+        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_VANCOUVER"		X="175" Y="88" />
+        <Replace MapName="CordiformEarth" Civilization="CIVILIZATION_WARSAW"		X="42" Y="33" />
+				
+	</StartPosition>
+	
 </GameData>
