@@ -37,7 +37,7 @@ SELECT	'AKSUM',			'Ethiopia',		'Ethiopian',	'Aksum city-state',			'Aksum'			UNIO
 SELECT	'RABAT',			'Morocco',		'Moroccan',		'Rabat city-state',			'Rabat'			UNION ALL
 SELECT	'KIEV',				'Kiev',			'Kievan',		'Kiev city-state',			'Kiev'			UNION ALL
 --SELECT	'WARSAW',			'Warsaw',		'Polish',		'Warsaw city-state',		'Warsaw'		UNION ALL
-SELECT	'SIDNEY',			'Sydney',		'Australian',	'Sidney city-state',		'Sydney'		UNION ALL
+SELECT	'SYDNEY',			'Sydney',		'Australian',	'Sydney city-state',		'Sydney'		UNION ALL
 SELECT	'DUBLIN',			'Dublin',		'Irish',		'Dublin city-state',		'Dublin'		UNION ALL
 SELECT	'VANCOUVER',		'Vancouver',	'Vancouverite',	'Vancouver city-state',		'Vancouver'		UNION ALL
 SELECT	'CAPE_TOWN',		'Cape Town',	'Capetonian',	'Cape Town city-state',		'Cape Town'		UNION ALL
