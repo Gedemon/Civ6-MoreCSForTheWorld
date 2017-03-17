@@ -19,9 +19,9 @@
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_SAMARKAND"		X="52" Y="57" />
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_SUTAIO"		X="142" Y="63" />
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_SYDNEY"		X="103" Y="10" />
-		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_TIKAL"			X="146" Y="45" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_TIKAL"			X="146" Y="46" />
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_ULUNDI"		X="32" Y="9" />
-		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_VANCOUVER"		X="130" Y="73" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_VANCOUVER"		X="131" Y="70" />
 		
 	</StartPosition>	
 
