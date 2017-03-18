@@ -4,7 +4,7 @@
 	<StartPosition>
 
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_AKSUM"			X="34" Y="37" />
-		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_CAPE_TOWN"		X="26" Y="7" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_CAPE_TOWN"		X="24" Y="7" />
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_CUZCO"			X="153" Y="27" />
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_DAKAR"			X="4" Y="39" />
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_DUBLIN"		X="6" Y="75" />
