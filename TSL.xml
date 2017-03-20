@@ -17,7 +17,7 @@
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_RABAT"			X="6" Y="48" />
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_REYKJAVIK"		X="3" Y="83" />
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_SAMARKAND"		X="52" Y="57" />
-		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_SUTAIO"		X="142" Y="63" />
+		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_SUTAIO"		X="138" Y="66" />
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_SYDNEY"		X="103" Y="10" />
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_TIKAL"			X="146" Y="46" />
 		<Replace MapName="GiantEarth" Civilization="CIVILIZATION_ULUNDI"		X="32" Y="9" />
